@@ -3,7 +3,8 @@
 ## [Guthub Pages ver.](https://yyhome-tromb.github.io/)  
 ## GAS Application (未作成)
   
-一介のクズ。思い付きが多い。英語は適当。 A waste of human. I write sloppy English.
+一介のクズ。思い付きが多い。英語は適当。 A waste of human. I write sloppy English.  
+## ※I use Google Translete to write almost sentence ,so I often miss expression.  
   
 ## 一言メモ/A single word memo  
 - Ja: [一言メモ](https://github.com/yyhome-tromb/yyhome-tromb.github.io/blob/main/a_single_word_ja.md)  
