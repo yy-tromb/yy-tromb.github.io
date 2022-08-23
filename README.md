@@ -13,13 +13,13 @@
 ## [記事/Articles](https://github.com/yyhome-tromb/yyhome-tromb.github.io/tree/main/articles)
   
 ## Repositories
-- [YYYTDL-Dev](https://github.com/yyhome-tromb/YYYTDL-Dev)
+- [YYYTDL](https://github.com/yyhome-tromb/YYYTDL)
 - [repeated-text-generater](https://github.com/yyhome-tromb/repeated-text-generater)
 - [party_one-liner](https://github.com/yyhome-tromb/party_one-liner)
 - [mini-Apps](https://github.com/yyhome-tromb/mini-Apps)
 - [mini-pages](https://github.com/yyhome-tromb/mini-pages)
   
-### [YYYTDL-Dev - Youtube Downloader](https://script.google.com/macros/s/AKfycbzmBmBuIIqtqzKDj9XtkFD_K8fhEq4pXvhIw_E3V1JeQHP8ttEjBScownmCpfWbU4lf/exec)  
+### [YYYTDL - Youtube Downloader](https://script.google.com/macros/s/AKfycbzmBmBuIIqtqzKDj9XtkFD_K8fhEq4pXvhIw_E3V1JeQHP8ttEjBScownmCpfWbU4lf/exec)  
 This is an GAS Web Application.  
 This app is not get "signatureChipher" URL yet.  
 If you can't open this app , try again in secret mode tab.
