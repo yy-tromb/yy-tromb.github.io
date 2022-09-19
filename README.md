@@ -1,6 +1,7 @@
 # YYHOME-tromb Home Page (v.0.1.md)  
 
-## [Guthub Pages ver.](https://yyhome-tromb.github.io/)  
+## [Guthub Pages ver.](https://yyhome-tromb.github.io/)
+※now temp file(css,js) on root  
 ## GAS Application (未作成)
   
 一介のクズ。思い付きが多い。英語は適当。 A waste of human. I write sloppy English.  
