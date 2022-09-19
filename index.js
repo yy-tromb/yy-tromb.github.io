@@ -1,5 +1,4 @@
 let pageCaches={};
-let gas=google.script;
 
 const openMenuBtn=document.getElementById("openMenuBtn");
 const openMenuBtn_span=openMenuBtn.getElementsByTagName("span")[0];
