@@ -13,6 +13,12 @@
   
 ## [記事/Articles](https://github.com/yyhome-tromb/yyhome-tromb.github.io/tree/main/articles)
   
+## Developpings and Thinkings  
+- YYYTDL - YT Downloader  
+- Home Page  
+- YY2000()  
+
+  
 ## Repositories
 - [YYYTDL](https://github.com/yyhome-tromb/YYYTDL)
 - [repeated-text-generater](https://github.com/yyhome-tromb/repeated-text-generater)
