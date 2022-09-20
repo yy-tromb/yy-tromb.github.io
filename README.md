@@ -15,8 +15,8 @@
   
 ## Developpings and Thinkings  
 - YYYTDL - YT Downloader  
-- Home Page  
-- YY2000()  
+- Home Page - ver.md,GitHub Pages,GAS  
+- YY2000 - Media Player on web  
 
   
 ## Repositories
