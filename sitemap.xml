@@ -3,5 +3,28 @@
   <url>
     <loc>https://yyhome-tromb.github.io/index.html</loc>
     <lastmod>2022-08-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://yyhome-tromb.github.io/YY2000Player/index.html</loc>
+    <lastmod>2022-09-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://yyhome-tromb.github.io/AudioPlayeronWeb/AudioPlayer3onWeb.html</loc>
+    <lastmod>2022-09-11</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://yyhome-tromb.github.io/party_one-liner/index.html</loc>
+    <lastmod>2022-09-04</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://yyhome-tromb.github.io/mini-Apps/Noffication-badge_line.html</loc>
+    <lastmod>2022-09-04</lastmod>
+    <priority>0.6</priority>
   </url>
 </urlset>
