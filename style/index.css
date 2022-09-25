@@ -157,6 +157,13 @@ nav {
   justify-content: center;
 }
 
+footer{
+  width:100%;
+  position:-webkit-sticky;
+  position:sticky;
+  bottom:0;
+}
+
 #toTop span {
   color: var(--theme-color);
   text-align: center;
