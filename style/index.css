@@ -159,6 +159,7 @@ nav {
 
 footer{
   width:100%;
+  border:3px black solid;
   position:-webkit-sticky;
   position:sticky;
   bottom:0;
