@@ -1,1 +1,4 @@
-# developper jokes
+# 技術者だから言っても許される下ネタ集  
+## Python系  
+### PyPy
+言わずもがな。Pyがπでパイなので…()
